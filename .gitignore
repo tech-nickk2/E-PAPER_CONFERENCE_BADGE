@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+__pycache__/
+
+# preview.py scratch output; the committed images live in docs/
+tools/_testphoto.bin
+tools/preview*.png
