@@ -67,6 +67,8 @@ company.</sub>
 
 ## Hardware
 
+![Componets](docs/components.png)
+
 |  |  |
 |---|---|
 | Board | LilyGo T5 4.7" **ESP32-S3** (`T5-ePaper-S3`) |
@@ -78,6 +80,9 @@ company.</sub>
 
 Current build: **965 kB flash** (15% of the app partition), **48 kB internal
 RAM** (15%), plus 506 kB of PSRAM for the two framebuffers.
+
+![Assembled](docs/assembly.png)
+![Case](docs/completed.png)
 
 The board definition is committed in `boards/T5-ePaper-S3.json` (copied verbatim
 from the LilyGo repo) so nothing has to be cloned by hand.
